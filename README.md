@@ -19,7 +19,7 @@ __v1.2.x @ Dev__
 
   - Enable Game Center to play with your friend via WiFi.
 
-__v1.1.0 @ Review__
+__v1.1.0 @ 2012-08-10__
 
   - Add In-App Purchase for donation.
 
